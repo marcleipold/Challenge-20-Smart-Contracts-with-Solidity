@@ -1,5 +1,7 @@
 # Module 20 Challenge - Joint Savings Account using Solidity Smart Contract
 
+![header_image](./20-5-challenge-image.png)
+
 ## Description
 
 Building a Solidity smart contract using ether management funtions to implement a financial institution's requirements for providing the features of the joint savings account.  This contract accepts two user addresses that will be used to control the joint savings account created with the contract. 
